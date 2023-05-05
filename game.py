@@ -1,7 +1,6 @@
 import os
 import re
 from board import Board
-# hello4
 class Game:
     def __init__(self, board_size, players):
         self.players_lst = players

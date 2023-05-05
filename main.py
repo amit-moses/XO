@@ -3,7 +3,6 @@ import utils
 
 while True:
     os.system('cls')
-    print('hello')
     print('for new game............press 1')
     print('for new user............press 2')
     print('for rank plyers.........press 3')
